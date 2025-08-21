@@ -1,19 +1,25 @@
-# 🧠 Support Vector Machine (SVM) Classifier
+# Support Vector Machine (SVM) Classifier
 
 This repository contains a Jupyter notebook demonstrating the implementation of a Support Vector Machine (SVM) model for classification tasks using Python and scikit-learn.
 
-## 🛠️ Features
+---
+
+## Features
 
 - Loads and prepares dataset for training  
 - Trains an SVM classifier using scikit-learn  
 - Visualizes decision boundaries and support vectors  
 - Evaluates model accuracy and confusion matrix  
 
-## 📁 Files
+---
 
-- `svm.ipynb`: Main notebook containing the complete implementation and plots
+## Files
 
-## 💻 Tech Stack
+- `svm.ipynb`: Main notebook containing the complete implementation and plots  
+
+---
+
+## Tech Stack
 
 - Python  
 - Jupyter Notebook  
@@ -23,7 +29,9 @@ This repository contains a Jupyter notebook demonstrating the implementation of 
 - NumPy  
 - pandas  
 
-## ✍️ Author
+---
+
+## Author
 
 **Sri Kalyan Reddy Akiti**  
-Data Science and artificial intelligence
+Data Science and Artificial Intelligence  
